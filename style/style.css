@@ -1,0 +1,9 @@
+html, body{margin: 0; padding: 0; height: 100%;}
+body{max-width: 340px; margin: 0 auto}
+nav{display: inline-block; float: right; height: 45px; line-height: 45px}
+nav ul{margin: 0; padding: 0; list-style-type: none;}
+nav li{display: inline-block; margin: 0 7px}
+nav li a{color: #221122; text-decoration: none}
+span{display: block; margin: 16px 0;}
+button{border: 1px solid #212121; border-radius: 5px; height: 25px; line-height: 25px; background-color: #c6dcee; font-size: 15px}
+button:hover{background-color: #aac5db}
